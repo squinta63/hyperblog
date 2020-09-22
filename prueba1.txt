@@ -1,3 +1,5 @@
 Este es un archivo de prueba
 
 que sirve para practicar lo aprendido.
+
+Autor: Sebastián Quintero.
